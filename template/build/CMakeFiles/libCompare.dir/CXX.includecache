@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ycb13/Desktop/study/dataStructure/template/max.cpp
+max.h
+/Users/ycb13/Desktop/study/dataStructure/template/max.h
+
+/Users/ycb13/Desktop/study/dataStructure/template/max.h
+

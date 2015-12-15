@@ -1,0 +1,2 @@
+/Users/ycb13/Desktop/study/dataStructure/template/build/CMakeFiles/libCompare.dir
+/Users/ycb13/Desktop/study/dataStructure/template/build/CMakeFiles/main.dir

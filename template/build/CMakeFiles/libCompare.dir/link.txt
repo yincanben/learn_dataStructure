@@ -1,0 +1,2 @@
+/usr/bin/ar cq liblibCompare.a  CMakeFiles/libCompare.dir/max.cpp.o
+/usr/bin/ranlib liblibCompare.a

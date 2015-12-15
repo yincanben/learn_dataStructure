@@ -1,0 +1,1 @@
+/Users/ycb13/Desktop/study/dataStructure/SeqList/SeqList/build/CMakeFiles/main.dir

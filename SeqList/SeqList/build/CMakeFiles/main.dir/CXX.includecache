@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ycb13/Desktop/study/dataStructure/SeqList/SeqList/SeqList.cpp
+SeqList.h
+/Users/ycb13/Desktop/study/dataStructure/SeqList/SeqList/SeqList.h
+
+/Users/ycb13/Desktop/study/dataStructure/SeqList/SeqList/SeqList.h
+iostream
+-
+
+/Users/ycb13/Desktop/study/dataStructure/SeqList/SeqList/main.cpp
+iostream
+-
+SeqList.h
+/Users/ycb13/Desktop/study/dataStructure/SeqList/SeqList/SeqList.h
+
